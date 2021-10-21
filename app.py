@@ -24,13 +24,13 @@ df = pd.read_csv(PATH)
 # ------------------------------------------------------------------------------
 # App layout
 app.layout = html.Div([
-    html.H1("Ph.D Awarded in The U.S.", style={'text-align': 'center'}),
+    html.H1("Ph.D Awarded in The U.S.", style={'text-align': 'center', 'color': 'white'}),
     html.Div(id="app-container", children=[html.Div(id='heatmap-container', children=[
-        html.H4("Number of PhD degrees in each state", style={'text-align': 'center'}),
-        html.P("Hover over the state to see break down by schools.", style={'text-align': 'center'}),
+        html.H4("Number of PhD degrees in each state", style={'text-align': 'center', 'color': 'white'}),
+        html.P("Hover over the state to see break down by schools.", style={'text-align': 'center', 'color': 'white'}),
         dcc.Graph(id="state-choropleth", figure={}, hoverData={'points':[{'location':'CA'}]}),
-        html.H4("Number of PhD by Universities", style={'text-align': 'center'}),
-        dcc.Graph(id="selected-data", figure={})])])])
+        html.H4("Number of PhD by Universities", style={'text-align': 'center', 'color': 'white'}),
+        dcc.Graph(id="selected-data", figure={})])])], style={'backgroundColor':'black'})
 
 
 
