@@ -1,0 +1,431 @@
+insitution,num_institution,state,state_num,state_abb
+Alabama A&M U.,5.0,Alabama,707.0,AL
+Alabama State U.,6.0,Alabama,707.0,AL
+"Auburn U., Auburn",284.0,Alabama,707.0,AL
+Tuskegee U.,12.0,Alabama,707.0,AL
+"U. Alabama, Birmingham",127.0,Alabama,707.0,AL
+"U. Alabama, Huntsville",42.0,Alabama,707.0,AL
+"U. Alabama, Tuscaloosa",199.0,Alabama,707.0,AL
+U. South Alabama,32.0,Alabama,707.0,AL
+"U. Alaska, Anchorage",3.0,Alaska,52.0,AK
+"U. Alaska, Fairbanks",49.0,Alaska,52.0,AK
+Arizona State U.,369.0,Arizona,801.0,AZ
+Northern Arizona U.,20.0,Arizona,801.0,AZ
+Prescott C.,11.0,Arizona,801.0,AZ
+U. Arizona,401.0,Arizona,801.0,AZ
+"Arkansas State U., Jonesboro",14.0,Arkansas,202.0,AR
+U. Arkansas for Medical Sciences,28.0,Arkansas,202.0,AR
+"U. Arkansas, Fayetteville",148.0,Arkansas,202.0,AR
+"U. Arkansas, Little Rock",12.0,Arkansas,202.0,AR
+"Alliant International U., Alhambra",83.0,California,6105.0,CA
+Azusa Pacific U.,14.0,California,6105.0,CA
+Biola U.,17.0,California,6105.0,CA
+California Institute of Integral Studies,35.0,California,6105.0,CA
+California Institute of Technology,180.0,California,6105.0,CA
+Chapman U.,18.0,California,6105.0,CA
+"City of Hope, Irell and Manella Graduate School of Biological Sciences",9.0,California,6105.0,CA
+Claremont Graduate U.,168.0,California,6105.0,CA
+Claremont School of Theology,12.0,California,6105.0,CA
+Fielding Graduate U.,108.0,California,6105.0,CA
+Frederick S. Pardee RAND Graduate School,15.0,California,6105.0,CA
+Fuller Theological Seminary,50.0,California,6105.0,CA
+Graduate Theological Union,33.0,California,6105.0,CA
+Keck Graduate Institute,1.0,California,6105.0,CA
+La Sierra U.,7.0,California,6105.0,CA
+Loma Linda U.,41.0,California,6105.0,CA
+Palo Alto U.,62.0,California,6105.0,CA
+"San Diego State U., San Diego",3.0,California,6105.0,CA
+"Sanford-Burnham Medical Research Institute, La Jolla",5.0,California,6105.0,CA
+Santa Clara U.,7.0,California,6105.0,CA
+Saybrook U.,29.0,California,6105.0,CA
+Scripps Research Institute,19.0,California,6105.0,CA
+Sofia U.,8.0,California,6105.0,CA
+Stanford U.,758.0,California,6105.0,CA
+"U. California, Berkeley",799.0,California,6105.0,CA
+"U. California, Davis",505.0,California,6105.0,CA
+"U. California, Irvine",403.0,California,6105.0,CA
+"U. California, Los Angeles",726.0,California,6105.0,CA
+"U. California, Merced",43.0,California,6105.0,CA
+"U. California, Riverside",268.0,California,6105.0,CA
+"U. California, San Diego",520.0,California,6105.0,CA
+"U. California, San Francisco",143.0,California,6105.0,CA
+"U. California, Santa Barbara",315.0,California,6105.0,CA
+"U. California, Santa Cruz",166.0,California,6105.0,CA
+U. of the Pacific,3.0,California,6105.0,CA
+U. San Diego,36.0,California,6105.0,CA
+U. San Francisco,35.0,California,6105.0,CA
+U. Southern California,461.0,California,6105.0,CA
+Colorado School of Mines,98.0,Colorado,1005.0,CO
+"Colorado State U., Fort Collins",223.0,Colorado,1005.0,CO
+"U. CO, Denver, Aurora, Anschutz Medical Campus",73.0,Colorado,1005.0,CO
+U. Colorado Boulder,392.0,Colorado,1005.0,CO
+U. Colorado Colorado Springs,30.0,Colorado,1005.0,CO
+U. Colorado Denver,27.0,Colorado,1005.0,CO
+U. Denver,94.0,Colorado,1005.0,CO
+U. Northern Colorado,68.0,Colorado,1005.0,CO
+U. Bridgeport,10.0,Connecticut,748.0,CT
+"U. Connecticut, Storrs",348.0,Connecticut,748.0,CT
+U. Hartford,1.0,Connecticut,748.0,CT
+Wesleyan U.,10.0,Connecticut,748.0,CT
+Yale U.,379.0,Connecticut,748.0,CT
+Delaware State U.,7.0,Delaware,238.0,DE
+U. Delaware,231.0,Delaware,238.0,DE
+District of Columbia,623.0,Delaware,238.0,DE
+American U.,69.0,Delaware,238.0,DE
+Catholic U. of America,81.0,Delaware,238.0,DE
+Gallaudet U.,13.0,Delaware,238.0,DE
+George Washington U.,247.0,Delaware,238.0,DE
+Georgetown U.,108.0,Delaware,238.0,DE
+Howard U.,105.0,Delaware,238.0,DE
+Barry U.,27.0,Florida,2336.0,FL
+"Embry-Riddle Aeronautical U., Daytona Beach",13.0,Florida,2336.0,FL
+Florida A&M U.,19.0,Florida,2336.0,FL
+Florida Atlantic U.,113.0,Florida,2336.0,FL
+Florida Institute of Technology,57.0,Florida,2336.0,FL
+Florida International U.,184.0,Florida,2336.0,FL
+Florida State U.,363.0,Florida,2336.0,FL
+Nova Southeastern U.,108.0,Florida,2336.0,FL
+U. Central Florida,218.0,Florida,2336.0,FL
+U. Florida,714.0,Florida,2336.0,FL
+U. Miami,201.0,Florida,2336.0,FL
+"U. South Florida, Tampa",317.0,Florida,2336.0,FL
+U. West Florida,2.0,Florida,2336.0,FL
+Clark Atlanta U.,19.0,Georgia,1492.0,GA
+Emory U.,229.0,Georgia,1492.0,GA
+Georgia Institute of Technology,503.0,Georgia,1492.0,GA
+Georgia Regents U.,16.0,Georgia,1492.0,GA
+Georgia State U.,228.0,Georgia,1492.0,GA
+Kennesaw State U.,8.0,Georgia,1492.0,GA
+Mercer U.,7.0,Georgia,1492.0,GA
+Morehouse School of Medicine,10.0,Georgia,1492.0,GA
+U. Georgia,472.0,Georgia,1492.0,GA
+"U. Hawaii, Manoa",189.0,Hawaii,189.0,HI
+Boise State U.,16.0,Idaho,103.0,ID
+Idaho State U.,34.0,Idaho,103.0,ID
+U. Idaho,53.0,Idaho,103.0,ID
+Benedictine U.,20.0,Illinois,2534.0,IL
+Chicago Theological Seminary,6.0,Illinois,2534.0,IL
+DePaul U.,9.0,Illinois,2534.0,IL
+Garrett-Evangelical Theological Seminary,9.0,Illinois,2534.0,IL
+Illinois Institute of Technology,86.0,Illinois,2534.0,IL
+Illinois State U.,34.0,Illinois,2534.0,IL
+"Institute for Clinical Social Work, Chicago",8.0,Illinois,2534.0,IL
+"Loyola U., Chicago",99.0,Illinois,2534.0,IL
+"Lutheran School of Theology, Chicago",6.0,Illinois,2534.0,IL
+National Louis U.,12.0,Illinois,2534.0,IL
+Northern Illinois U.,99.0,Illinois,2534.0,IL
+Northwestern U.,441.0,Illinois,2534.0,IL
+Roosevelt U.,1.0,Illinois,2534.0,IL
+Rosalind Franklin U. of Medicine and Science,16.0,Illinois,2534.0,IL
+Rush U.,12.0,Illinois,2534.0,IL
+"Southern Illinois U., Carbondale",174.0,Illinois,2534.0,IL
+"Toyota Technological Institute, Chicago",2.0,Illinois,2534.0,IL
+U. Chicago,387.0,Illinois,2534.0,IL
+"U. Illinois, Chicago",325.0,Illinois,2534.0,IL
+"U. Illinois, Urbana-Champaign",782.0,Illinois,2534.0,IL
+"Wheaton C., Wheaton",6.0,Illinois,2534.0,IL
+Ball State U.,36.0,Indiana,1572.0,IN
+Indiana State U.,70.0,Indiana,1572.0,IN
+"Indiana U., Bloomington",402.0,Indiana,1572.0,IN
+"Indiana U.-Purdue U., Indianapolis",87.0,Indiana,1572.0,IN
+"Purdue U., West Lafayette",739.0,Indiana,1572.0,IN
+U. Notre Dame,238.0,Indiana,1572.0,IN
+Iowa State U.,350.0,Iowa,715.0,IA
+Maharishi U. of Management,3.0,Iowa,715.0,IA
+St. Ambrose U.,2.0,Iowa,715.0,IA
+U. Iowa,347.0,Iowa,715.0,IA
+U. Northern Iowa,13.0,Iowa,715.0,IA
+Kansas State U.,179.0,Kansas,530.0,KS
+U. Kansas,310.0,Kansas,530.0,KS
+Wichita State U.,41.0,Kansas,530.0,KS
+Asbury Theological Seminary,10.0,Kentucky,497.0,KY
+Southern Baptist Theological Seminary,36.0,Kentucky,497.0,KY
+U. Kentucky,305.0,Kentucky,497.0,KY
+U. Louisville,146.0,Kentucky,497.0,KY
+Grambling State U.,9.0,Louisiana,607.0,LA
+"Louisiana State U., Baton Rouge",296.0,Louisiana,607.0,LA
+"Louisiana State U., Health Sciences Center, New Orleans",19.0,Louisiana,607.0,LA
+"Louisiana State U., Health Sciences Center, Shreveport",7.0,Louisiana,607.0,LA
+Louisiana Tech U.,44.0,Louisiana,607.0,LA
+New Orleans Baptist Theological Seminary,13.0,Louisiana,607.0,LA
+"Southern U. and A&M C., Baton Rouge",8.0,Louisiana,607.0,LA
+Tulane U.,107.0,Louisiana,607.0,LA
+"U. Louisiana, Lafayette",44.0,Louisiana,607.0,LA
+"U. Louisiana, Monroe",18.0,Louisiana,607.0,LA
+U. New Orleans,42.0,Louisiana,607.0,LA
+U. Maine,55.0,Maine,56.0,ME
+U. Southern Maine,1.0,Maine,56.0,ME
+Bowie State U.,3.0,Maryland,1295.0,MD
+Johns Hopkins U.,495.0,Maryland,1295.0,MD
+"Loyola U., Maryland",7.0,Maryland,1295.0,MD
+Morgan State U.,30.0,Maryland,1295.0,MD
+Notre Dame of Maryland U.,3.0,Maryland,1295.0,MD
+Towson U.,17.0,Maryland,1295.0,MD
+"U. Maryland, Baltimore",88.0,Maryland,1295.0,MD
+"U. Maryland, Baltimore County",88.0,Maryland,1295.0,MD
+"U. Maryland, College Park",528.0,Maryland,1295.0,MD
+"U. Maryland, Eastern Shore",13.0,Maryland,1295.0,MD
+Uniformed Services U. of the Health Sciences,23.0,Maryland,1295.0,MD
+Bentley U.,6.0,Massachusetts,2879.0,MA
+Boston C.,120.0,Massachusetts,2879.0,MA
+Boston U.,345.0,Massachusetts,2879.0,MA
+Brandeis U.,86.0,Massachusetts,2879.0,MA
+Clark U.,31.0,Massachusetts,2879.0,MA
+Harvard U.,683.0,Massachusetts,2879.0,MA
+Massachusetts C. of Pharmacy and Health Sciences,7.0,Massachusetts,2879.0,MA
+Massachusetts Institute of Technology,621.0,Massachusetts,2879.0,MA
+New England Conservatory,9.0,Massachusetts,2879.0,MA
+Northeastern U.,226.0,Massachusetts,2879.0,MA
+Simmons C.,13.0,Massachusetts,2879.0,MA
+Smith C.,9.0,Massachusetts,2879.0,MA
+Springfield C.,7.0,Massachusetts,2879.0,MA
+Suffolk U.,7.0,Massachusetts,2879.0,MA
+"Tufts U., Medford",138.0,Massachusetts,2879.0,MA
+"U. Massachusetts, Amherst",307.0,Massachusetts,2879.0,MA
+"U. Massachusetts, Boston",53.0,Massachusetts,2879.0,MA
+"U. Massachusetts, Dartmouth",33.0,Massachusetts,2879.0,MA
+"U. Massachusetts, Lowell",73.0,Massachusetts,2879.0,MA
+"U. Massachusetts, Medical School",55.0,Massachusetts,2879.0,MA
+Western New England U.,4.0,Massachusetts,2879.0,MA
+Worcester Polytechnic Institute,46.0,Massachusetts,2879.0,MA
+Andrews U.,24.0,Michigan,1906.0,MI
+Calvin Theological Seminary,2.0,Michigan,1906.0,MI
+Central Michigan U.,22.0,Michigan,1906.0,MI
+Eastern Michigan U.,53.0,Michigan,1906.0,MI
+Michigan State U.,515.0,Michigan,1906.0,MI
+Michigan Technological U.,88.0,Michigan,1906.0,MI
+Oakland U.,38.0,Michigan,1906.0,MI
+U. Detroit Mercy,6.0,Michigan,1906.0,MI
+"U. Michigan, Ann Arbor",777.0,Michigan,1906.0,MI
+"U. Michigan, Dearborn",8.0,Michigan,1906.0,MI
+Van Andel Institute,4.0,Michigan,1906.0,MI
+Wayne State U.,249.0,Michigan,1906.0,MI
+Western Michigan U.,120.0,Michigan,1906.0,MI
+"Mayo Clinic, Mayo Graduate School",36.0,Minnesota,1374.0,MN
+"U. Minnesota, Twin Cities",678.0,Minnesota,1374.0,MN
+Walden U.,660.0,Minnesota,1374.0,MN
+Jackson State U.,75.0,Mississippi,460.0,MS
+Mississippi State U.,173.0,Mississippi,460.0,MS
+"U. Mississippi, Jackson, Medical Center",21.0,Mississippi,460.0,MS
+"U. Mississippi, Oxford",78.0,Mississippi,460.0,MS
+U. Southern Mississippi,113.0,Mississippi,460.0,MS
+Concordia Seminary,6.0,Missouri,1022.0,MO
+Midwestern Baptist Theological Seminary,2.0,Missouri,1022.0,MO
+Missouri U. of Science and Technology,119.0,Missouri,1022.0,MO
+Saint Louis U.,158.0,Missouri,1022.0,MO
+"U. Missouri, Columbia",345.0,Missouri,1022.0,MO
+"U. Missouri, Kansas City",62.0,Missouri,1022.0,MO
+"U. Missouri, Saint Louis",58.0,Missouri,1022.0,MO
+"Washington U., Saint Louis",272.0,Missouri,1022.0,MO
+"Montana State U., Bozeman",66.0,Montana,119.0,MT
+"U. Montana, Missoula",53.0,Montana,119.0,MT
+Creighton U.,7.0,Nebraska,363.0,NE
+"U. Nebraska, Lincoln",267.0,Nebraska,363.0,NE
+"U. Nebraska, Medical Center",70.0,Nebraska,363.0,NE
+U. Nebraska Omaha,19.0,Nebraska,363.0,NE
+"U. Nevada, Las Vegas",99.0,Nevada,200.0,NV
+"U. Nevada, Reno",101.0,Nevada,200.0,NV
+"Antioch U., Keene",8.0,New Hampshire,158.0,NH
+Dartmouth C.,83.0,New Hampshire,158.0,NH
+Southern New Hampshire U.,4.0,New Hampshire,158.0,NH
+"U. New Hampshire, Durham",63.0,New Hampshire,158.0,NH
+Drew U.,10.0,New Jersey,1115.0,NJ
+"Fairleigh Dickinson U., Teaneck",15.0,New Jersey,1115.0,NJ
+Montclair State U.,15.0,New Jersey,1115.0,NJ
+New Jersey Institute of Technology,59.0,New Jersey,1115.0,NJ
+Princeton Theological Seminary,8.0,New Jersey,1115.0,NJ
+Princeton U.,359.0,New Jersey,1115.0,NJ
+Rowan U.,6.0,New Jersey,1115.0,NJ
+Rutgers School of Biomedical and Health Sciences,45.0,New Jersey,1115.0,NJ
+"Rutgers, State U. New Jersey, Camden",4.0,New Jersey,1115.0,NJ
+"Rutgers, State U. New Jersey, New Brunswick",396.0,New Jersey,1115.0,NJ
+"Rutgers, State U. New Jersey, Newark",94.0,New Jersey,1115.0,NJ
+Seton Hall U.,46.0,New Jersey,1115.0,NJ
+Stevens Institute of Technology,58.0,New Jersey,1115.0,NJ
+New Mexico Institute of Mining and Technology,13.0,New Mexico,299.0,NM
+"New Mexico State U., Las Cruces",95.0,New Mexico,299.0,NM
+"U. New Mexico, Albuquerque",191.0,New Mexico,299.0,NM
+Adelphi U.,26.0,New York,4064.0,NY
+Albany Medical C.,9.0,New York,4064.0,NY
+Alfred U.,2.0,New York,4064.0,NY
+Clarkson U.,32.0,New York,4064.0,NY
+Cold Spring Harbor Laboratory,7.0,New York,4064.0,NY
+Columbia U. in the City of New York,481.0,New York,4064.0,NY
+"Columbia U., Teachers C.",192.0,New York,4064.0,NY
+Cornell U.,496.0,New York,4064.0,NY
+"Cornell U., Graduate School of Medical Sciences",54.0,New York,4064.0,NY
+"CUNY, City C.",30.0,New York,4064.0,NY
+"CUNY, Graduate Center",419.0,New York,4064.0,NY
+Fordham U.,112.0,New York,4064.0,NY
+Hofstra U.,19.0,New York,4064.0,NY
+Icahn School of Medicine at Mt. Sinai,43.0,New York,4064.0,NY
+Jewish Theological Seminary of America,2.0,New York,4064.0,NY
+"Long Island U., Brooklyn",18.0,New York,4064.0,NY
+"Long Island U., Brookville",1.0,New York,4064.0,NY
+New School,47.0,New York,4064.0,NY
+New York Medical C.,6.0,New York,4064.0,NY
+New York U.,435.0,New York,4064.0,NY
+Pace U.,1.0,New York,4064.0,NY
+"Rensselaer Polytechnic Institute, Troy",122.0,New York,4064.0,NY
+Rochester Institute of Technology,25.0,New York,4064.0,NY
+Rockefeller U.,23.0,New York,4064.0,NY
+"St. John's U., Queens",41.0,New York,4064.0,NY
+Syracuse U.,217.0,New York,4064.0,NY
+"SUNY, Binghamton U.",130.0,New York,4064.0,NY
+"SUNY, C. of Environmental Science and Forestry",20.0,New York,4064.0,NY
+"SUNY, C. of Optometry",2.0,New York,4064.0,NY
+"SUNY, Downstate Medical Center",13.0,New York,4064.0,NY
+"SUNY, Stony Brook U.",264.0,New York,4064.0,NY
+"SUNY, U. Albany",165.0,New York,4064.0,NY
+"SUNY, U. Buffalo",341.0,New York,4064.0,NY
+"SUNY, Upstate Medical U.",13.0,New York,4064.0,NY
+Union Theological Seminary,9.0,New York,4064.0,NY
+U. Rochester,201.0,New York,4064.0,NY
+Yeshiva U.,46.0,New York,4064.0,NY
+Duke U.,420.0,North Carolina,1833.0,NC
+East Carolina U.,53.0,North Carolina,1833.0,NC
+North Carolina Agricultural and Technical State U.,62.0,North Carolina,1833.0,NC
+North Carolina State U.,499.0,North Carolina,1833.0,NC
+Southeastern Baptist Theological Seminary,7.0,North Carolina,1833.0,NC
+"U. North Carolina, Chapel Hill",542.0,North Carolina,1833.0,NC
+"U. North Carolina, Charlotte",108.0,North Carolina,1833.0,NC
+"U. North Carolina, Greensboro",102.0,North Carolina,1833.0,NC
+"U. North Carolina, Wilmington",2.0,North Carolina,1833.0,NC
+Wake Forest U.,38.0,North Carolina,1833.0,NC
+North Dakota State U.,94.0,North Dakota,181.0,ND
+U. North Dakota,87.0,North Dakota,181.0,ND
+Air Force Institute of Technology,37.0,Ohio,2028.0,OH
+"Bowling Green State U., Bowling Green",86.0,Ohio,2028.0,OH
+Case Western Reserve U.,196.0,Ohio,2028.0,OH
+Cleveland State U.,51.0,Ohio,2028.0,OH
+"Kent State U., Kent",170.0,Ohio,2028.0,OH
+"Miami U., Oxford",58.0,Ohio,2028.0,OH
+Northeast Ohio Medical U.,1.0,Ohio,2028.0,OH
+"Ohio State U., Columbus",735.0,Ohio,2028.0,OH
+"Ohio U., Athens",121.0,Ohio,2028.0,OH
+"U. Akron, Akron",141.0,Ohio,2028.0,OH
+"U. Cincinnati, Uptown West Campus",230.0,Ohio,2028.0,OH
+U. Dayton,40.0,Ohio,2028.0,OH
+U. Toledo,110.0,Ohio,2028.0,OH
+"Wright State U., Dayton",50.0,Ohio,2028.0,OH
+Youngstown State U.,2.0,Ohio,2028.0,OH
+Oklahoma City U.,10.0,Oklahoma,524.0,OK
+"Oklahoma State U., Center for Health Sciences",3.0,Oklahoma,524.0,OK
+"Oklahoma State U., Stillwater",226.0,Oklahoma,524.0,OK
+"U. Oklahoma, Norman",242.0,Oklahoma,524.0,OK
+U. Tulsa,43.0,Oklahoma,524.0,OK
+Oregon Health and Science U.,49.0,Oregon,572.0,OR
+"Oregon State U., Corvallis",267.0,Oregon,572.0,OR
+Portland State U.,61.0,Oregon,572.0,OR
+U. Oregon,195.0,Oregon,572.0,OR
+Bryn Mawr C.,15.0,Pennsylvania,2628.0,PA
+Carnegie Mellon U.,308.0,Pennsylvania,2628.0,PA
+Drexel U.,152.0,Pennsylvania,2628.0,PA
+Duquesne U.,58.0,Pennsylvania,2628.0,PA
+Indiana U. Pennsylvania,60.0,Pennsylvania,2628.0,PA
+Lehigh U.,89.0,Pennsylvania,2628.0,PA
+"Lutheran Theological Seminary, Philadelphia",8.0,Pennsylvania,2628.0,PA
+Marywood U.,15.0,Pennsylvania,2628.0,PA
+"Pennsylvania State U., University Park and Hershey Medical Center",694.0,Pennsylvania,2628.0,PA
+Temple U.,259.0,Pennsylvania,2628.0,PA
+Thomas Jefferson U.,28.0,Pennsylvania,2628.0,PA
+U. Pennsylvania,488.0,Pennsylvania,2628.0,PA
+"U. Pittsburgh, Pittsburgh",386.0,Pennsylvania,2628.0,PA
+U. of the Sciences Philadelphia,16.0,Pennsylvania,2628.0,PA
+Villanova U.,27.0,Pennsylvania,2628.0,PA
+Westminster Theological Seminary,2.0,Pennsylvania,2628.0,PA
+"Widener U., Chester",23.0,Pennsylvania,2628.0,PA
+Puerto Rico,84.0,Pennsylvania,2628.0,PA
+"Inter American U. Puerto Rico, San Juan",32.0,Pennsylvania,2628.0,PA
+Ponce Heath Sciences U.,4.0,Pennsylvania,2628.0,PA
+"Pontifical Catholic U. Puerto Rico, Ponce",13.0,Pennsylvania,2628.0,PA
+"U. Puerto Rico, Mayaguez",9.0,Pennsylvania,2628.0,PA
+"U. Puerto Rico, Rio Piedras",26.0,Pennsylvania,2628.0,PA
+Brown U.,210.0,Rhode Island,322.0,RI
+Salve Regina U.,12.0,Rhode Island,322.0,RI
+U. Rhode Island,100.0,Rhode Island,322.0,RI
+Clemson U.,235.0,South Carolina,506.0,SC
+Medical U. South Carolina,25.0,South Carolina,506.0,SC
+"U. South Carolina, Columbia",246.0,South Carolina,506.0,SC
+Dakota State U.,10.0,South Dakota,110.0,SD
+South Dakota School of Mines and Technology,15.0,South Dakota,110.0,SD
+South Dakota State U.,54.0,South Dakota,110.0,SD
+U. South Dakota,31.0,South Dakota,110.0,SD
+East Tennessee State U.,33.0,Tennessee,1032.0,TN
+Meharry Medical C.,8.0,Tennessee,1032.0,TN
+Mid-America Baptist Theological Seminary,4.0,Tennessee,1032.0,TN
+Middle Tennessee State U.,60.0,Tennessee,1032.0,TN
+Tennessee State U.,17.0,Tennessee,1032.0,TN
+Tennessee Technological U.,23.0,Tennessee,1032.0,TN
+U. Memphis,158.0,Tennessee,1032.0,TN
+"U. Tennessee, Chattanooga",16.0,Tennessee,1032.0,TN
+"U. Tennessee, Health Science Center",35.0,Tennessee,1032.0,TN
+"U. Tennessee, Knoxville",365.0,Tennessee,1032.0,TN
+Vanderbilt U.,313.0,Tennessee,1032.0,TN
+Baylor C. of Medicine,81.0,Texas,4068.0,TX
+Baylor U.,73.0,Texas,4068.0,TX
+Brite Divinity S.,4.0,Texas,4068.0,TX
+Dallas Theological Seminary,7.0,Texas,4068.0,TX
+Lamar U.,13.0,Texas,4068.0,TX
+Prairie View A&M U.,3.0,Texas,4068.0,TX
+Rice U.,192.0,Texas,4068.0,TX
+Sam Houston State U.,26.0,Texas,4068.0,TX
+Southern Methodist U.,75.0,Texas,4068.0,TX
+Southwestern Baptist Theological Seminary,23.0,Texas,4068.0,TX
+"St. Mary's U., San Antonio",3.0,Texas,4068.0,TX
+Stephen F. Austin State U.,1.0,Texas,4068.0,TX
+"Texas A&M U., College Station and Health Science Center",732.0,Texas,4068.0,TX
+Texas A&M U.-Commerce,14.0,Texas,4068.0,TX
+Texas A&M U.-Corpus Christi,19.0,Texas,4068.0,TX
+Texas A&M U.-Kingsville,6.0,Texas,4068.0,TX
+Texas Christian U.,25.0,Texas,4068.0,TX
+Texas Southern U.,45.0,Texas,4068.0,TX
+Texas State U.,37.0,Texas,4068.0,TX
+Texas Tech U.,341.0,Texas,4068.0,TX
+"Texas Tech U., Health Sciences Center",17.0,Texas,4068.0,TX
+Texas Woman's U.,94.0,Texas,4068.0,TX
+U. Dallas,9.0,Texas,4068.0,TX
+U. Houston,301.0,Texas,4068.0,TX
+"U. North Texas, Denton",209.0,Texas,4068.0,TX
+"U. North Texas, Health Science Center",20.0,Texas,4068.0,TX
+"U. of St. Thomas, Houston",4.0,Texas,4068.0,TX
+U. of the Incarnate Word,18.0,Texas,4068.0,TX
+"U. Texas Health Science Center, Houstona",128.0,Texas,4068.0,TX
+"U. Texas Health Science Center, San Antonio",38.0,Texas,4068.0,TX
+U. Texas Medical Branch,50.0,Texas,4068.0,TX
+U. Texas Pan American,5.0,Texas,4068.0,TX
+U. Texas Southwestern Medical Center,53.0,Texas,4068.0,TX
+"U. Texas, Arlington",207.0,Texas,4068.0,TX
+"U. Texas, Austin",795.0,Texas,4068.0,TX
+"U. Texas, Dallas",201.0,Texas,4068.0,TX
+"U. Texas, El Paso",91.0,Texas,4068.0,TX
+"U. Texas, San Antonio",105.0,Texas,4068.0,TX
+West Texas A&M U.,3.0,Texas,4068.0,TX
+"Brigham Young U., Provo",92.0,Utah,508.0,UT
+U. Utah,329.0,Utah,508.0,UT
+"Utah State U., Logan",87.0,Utah,508.0,UT
+Middlebury C.,7.0,Vermont,61.0,VT
+U. Vermont,54.0,Vermont,61.0,VT
+C. of William and Mary,74.0,Virginia,1513.0,VA
+George Mason U.,262.0,Virginia,1513.0,VA
+Hampton U.,21.0,Virginia,1513.0,VA
+James Madison U.,2.0,Virginia,1513.0,VA
+Norfolk State U.,2.0,Virginia,1513.0,VA
+Old Dominion U.,141.0,Virginia,1513.0,VA
+Regent U.,58.0,Virginia,1513.0,VA
+Union Presbyterian Seminary,5.0,Virginia,1513.0,VA
+"U. Virginia, Charlottesville",326.0,Virginia,1513.0,VA
+Virginia Commonwealth U.,184.0,Virginia,1513.0,VA
+Virginia Polytechnic Institute and State U.,438.0,Virginia,1513.0,VA
+Gonzaga U.,11.0,Washington,914.0,WA
+Seattle Pacific U.,20.0,Washington,914.0,WA
+"U. Washington, Seattle",604.0,Washington,914.0,WA
+Washington State U.,279.0,Washington,914.0,WA
+Marshall U.,4.0,West Virginia,183.0,WV
+West Virginia U.,179.0,West Virginia,183.0,WV
+Cardinal Stritch U.,23.0,Wisconsin,1130.0,WI
+Marquette U.,58.0,Wisconsin,1130.0,WI
+Medical C. Wisconsin,28.0,Wisconsin,1130.0,WI
+U. Wisconsin-Madison,844.0,Wisconsin,1130.0,WI
+U. Wisconsin-Milwaukee,177.0,Wisconsin,1130.0,WI
+U. Wyoming,101.0,Wyoming,101.0,WY
