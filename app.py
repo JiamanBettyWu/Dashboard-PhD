@@ -16,7 +16,7 @@ app = Dash(
 server = app.server
 
 # -- Import and clean data (importing csv into pandas)
-PATH = './dashboard/df_clean.csv'
+PATH = './df_clean.csv'
 df = pd.read_csv(PATH)
 
 
