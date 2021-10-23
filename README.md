@@ -2,6 +2,7 @@
 
 Using [the PhDs awarded in the U.S. dataset](https://ncses.nsf.gov/pubs/nsf19301/data), I demostrate how to make and deploy a dashboard in Python.
 
+![image](dashboard.jpg)
 
 **Packages:**
 - `plotly`
